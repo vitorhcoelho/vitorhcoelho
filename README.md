@@ -30,8 +30,8 @@ Since I embarked on my journey in the software development field, I've worked on
 
 Feel free to reach out to me to discuss collaboration opportunities, share knowledge, or simply exchange ideas about the tech world. Let's build something amazing together! 🌟
 
-- 📧 vitor.hugo.cq@live.com
-- 💼 <a href="https://www.linkedin.com/in/vitorhcoelho/" target="_blank">vitorhcoelho</a>
+- 📧 <a href="mailto:vitor.hugo.cq@live.com" target="_blank">E-mail</a>
+- 💼 <a href="https://www.linkedin.com/in/vitorhcoelho/" target="_blank">LinkedIn</a>
 
 ##
 <div style="display: inline_block"><br>

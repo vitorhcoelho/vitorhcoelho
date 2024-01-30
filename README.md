@@ -1,4 +1,4 @@
-# INTRODUCTION
+# INTRODUCTION 🖥️ <img align="right" src="https://komarev.com/ghpvc/?username=vitorhcoelho&style=flat-square&color=blueviolet"/>
 
 Hello there! 👋 I'm Vitor, a passionate frontend developer from Brasil. Welcome to my GitHub profile, where you can explore some of my projects and contributions.
 

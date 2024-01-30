@@ -4,7 +4,7 @@ Hello there! 👋 I'm Vitor, a passionate frontend developer from Brasil. Welcom
 
 ## Key Technologies
 
-<img src="https://cdn.dribbble.com/users/603800/screenshots/4569474/dribbble-code.gif" width="400px" height="250px" align="right">
+<img src="https://cdn.dribbble.com/users/603800/screenshots/4569474/dribbble-code.gif" width="330px" align="right">
 
 - 💻 Angular, TypeScript, JavaScript
 - 🌐 HTML5, CSS3, Sass

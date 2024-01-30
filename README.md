@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" heigth="500px" width="100%"/>
+<img src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" width="100%"/>
 
 # Welcome to my github profile! 😁 <img align="right" src="https://komarev.com/ghpvc/?username=vitorhcoelho&style=flat-square&color=blueviolet"/>
 <div style="display: inline_block"><br>
